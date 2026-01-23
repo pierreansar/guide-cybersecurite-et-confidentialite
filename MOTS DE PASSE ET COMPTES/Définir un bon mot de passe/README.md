@@ -1,5 +1,7 @@
 # Définir un bon mot de passe
 
+> 📺 **Vidéo associée : [Votre mot de passe est il sûr ?](https://youtu.be/ImYRiAdX2jE)**
+
 Un mot de passe robuste doit respecter plusieurs critères essentiels :
 
 - **La longueur** : 14 caractères minimum.
